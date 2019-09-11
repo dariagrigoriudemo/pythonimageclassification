@@ -1,0 +1,5 @@
+.git*
+.vscode
+test
+worker_env
+env

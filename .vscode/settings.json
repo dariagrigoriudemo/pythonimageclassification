@@ -1,0 +1,9 @@
+{
+    "azureFunctions.deploySubpath": "Image_Classification_using_Tensorflow.zip",
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.pythonVenv": "env",
+    "azureFunctions.projectRuntime": "~2",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "func: pack",
+    "python.pythonPath": "d:\\Demos\\PythonLinuxConsumptionGA\\Image_Classification_using_Tensorflow\\env\\Scripts\\python.exe"
+}
